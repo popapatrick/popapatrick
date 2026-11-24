@@ -3,7 +3,7 @@
   <img src="assets/hero-light.svg" width="100%" alt="Patrick Popa, with the letters drawn as roads and trucks driving through them.">
 </picture>
 
-I'm the founder of **TruckBroker**, an agentic solution for road freight transport that is currently being built inside a road freight company. I'm an AI engineer based in Romania, working with Deep Learning and agentic solutions, and I study Computer Science at Polytechnic University of Bucharest.
+I'm the founder of **TruckBroker**, an agentic solution for road freight transport that is currently being built inside a road freight company. I'm an AI engineer based in Romania, working on Deep Learning and agentic solutions, and I study Computer Science at Polytechnic University of Bucharest.
 
 ## Repositories
 
