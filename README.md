@@ -7,10 +7,7 @@ I'm the founder of **TruckBroker**, an agentic solution for road freight transpo
 
 ## Repositories
 
-<a href="https://github.com/popapatrick/AIBootcamp"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/aibootcamp-dark.svg">
-  <img src="assets/aibootcamp-light.svg" width="100%" alt="AIBootcamp: a grid model that keeps itself up to date. 2nd prize, Innovation Labs AI Bootcamp.">
-</picture></a>
+<p><a href="https://github.com/popapatrick/AIBootcamp"><img src="assets/aibootcamp.svg" width="100%" alt="AIBootcamp: a grid model that keeps itself up to date. 2nd prize, Innovation Labs AI Bootcamp."></a></p>
 
 **[AIBootcamp](https://github.com/popapatrick/AIBootcamp)** is a prototype, built in a team of three for a PPC challenge, that lets the map of an electric grid update itself.
 
@@ -20,10 +17,7 @@ I'm the founder of **TruckBroker**, an agentic solution for road freight transpo
 
 `Python` `FastAPI` `OpenStreetMap` · MIT
 
-<a href="https://github.com/popapatrick/DRONECOIN"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dronecoin-dark.svg">
-  <img src="assets/dronecoin-light.svg" width="100%" alt="DRONECOIN: an acoustic network for low-altitude drones. Hackathon concept, EDTH Bucharest.">
-</picture></a>
+<p><a href="https://github.com/popapatrick/DRONECOIN"><img src="assets/dronecoin.svg" width="100%" alt="DRONECOIN: an acoustic network for low-altitude drones. Hackathon concept, EDTH Bucharest."></a></p>
 
 **[DRONECOIN](https://github.com/popapatrick/DRONECOIN)** is a concept for a decentralized network of rooftop microphones that hears drones flying too low for radar.
 
@@ -35,10 +29,7 @@ I'm the founder of **TruckBroker**, an agentic solution for road freight transpo
 
 `Python` `Rust` `TypeScript` `Solana` · All rights reserved
 
-<a href="https://github.com/popapatrick/nvidia-nemotron"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/nemotron-dark.svg">
-  <img src="assets/nemotron-light.svg" width="100%" alt="nvidia-nemotron: LoRA fine-tuning on a 30B reasoning model. 0.83 on the Kaggle final leaderboard.">
-</picture></a>
+<p><a href="https://github.com/popapatrick/nvidia-nemotron"><img src="assets/nemotron.svg" width="100%" alt="nvidia-nemotron: LoRA fine-tuning on a 30B reasoning model. 0.83 on the Kaggle final leaderboard."></a></p>
 
 **[nvidia-nemotron](https://github.com/popapatrick/nvidia-nemotron)** holds three solutions to the NVIDIA Nemotron Model Reasoning Challenge on Kaggle. Each one fine-tunes a rank-32 LoRA adapter on Nemotron-3-Nano-30B.
 
